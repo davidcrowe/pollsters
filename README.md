@@ -107,3 +107,364 @@ Planning Poker
 
 
 **Only Development Team Members participated in Product Backlog Items estimating.**
+
+## Sprint 1
+
+
+## Sprint forecast
+
+12 story points
+
+
+## Rationale for our sprint forecast
+
+Each developer has the capacity to complete 4 story points during one sprint. So we have taken a total of 12 story points to complete.
+
+**Only development team members pulled stories into the sprint backlog.**
+
+
+## [Sprint Backlog](https://github.com/davidcrowe/pollsters/projects/2)
+
+
+## [Sprint Burndown Chart ](https://docs.google.com/document/d/1Wo_9dWVusxTQZMGk1GH5D-5gf8-u-wS4OvHFh8BmheI/edit?usp=sharing)
+
+
+## [Evidence of June 28th’s Daily Scrum Event](https://docs.google.com/document/d/10FawVAYXtoLll2DrnwS4hq6_ADtbzb1-npJsYeswqHw/edit?usp=sharing)
+
+
+## Daily Scrum Logs
+
+
+### June 29
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Co-work on tasks #17 and #19
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Co-work on tasks #17 and #19
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Co-work on tasks #17 and #19
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    0
+   </td>
+  </tr>
+</table>
+
+
+
+### June 30
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Co-completed 10 story points
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Push the project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Pushing project to github with large file sizes
+
+<li>We will mob program to find a solution for this impediment
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Co-completed 10 story points
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Push the project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Pushing project to github with large file sizes
+
+<li>We will mob program to find a solution for this impediment
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Co-completed 10 story points
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Push the project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Pushing project to github with large file sizes
+
+<li>We will mob program to find a solution for this impediment
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    10
+   </td>
+  </tr>
+</table>
+
+
+
+### July 1
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Pushed Project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Conduct Sprint Review and Sprint Retrospective
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Facing issues when running unit tests
+
+<li>Added this impediment as a PBI to be resolved in Sprint 2
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Pushed Project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Conduct Sprint Review and Sprint Retrospective
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Facing issues when running unit tests
+
+<li>Added this impediment as a PBI to be resolved in Sprint 2
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Pushed Project to GitHub
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Conduct Sprint Review and Sprint Retrospective
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Facing issues when running unit tests
+
+<li>Added this impediment as a PBI to be resolved in Sprint 2
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    2
+   </td>
+  </tr>
+</table>
+
+
+
+## Evidence of Pair or Mob Programming
+![Evidence of Mob Programming](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Mob%20Programming.png)
+
+## Evidence of Unit Testing 
+
+We wrote 9 unit tests (4 in the back-end API application and 5 in the front-end UI application)  but we encountered an impediment that prevented us from running most of those tests. Specifically, we encountered versioning issues for Angular in local machines vs. code base. We have created a PBI with an acceptance criteria and estimated story points to resolve this impediment in the next sprint. In total, only 3 unit tests have passed.
+
+![Evidence of Unit Testing 1](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Unit%20Tests%201.png)
+![Evidence of Unit Testing 2](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Unit%20Tests%202.png)
+![Evidence of Unit Testing 3](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Unit%20Tests%203.png)
+
+## Evidence of Working Software
+
+[URL to YouTube](https://youtu.be/Xzu5RK51-Qo)
+
+[URL to Website](votecast.azurewebsites.net/)
+
+
+## Evidence of Stakeholder Attendance 
+
+![Evidence of Stakeholder Attendance](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Sprint%20Review.png)
