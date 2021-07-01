@@ -462,7 +462,7 @@ We wrote 9 unit tests (4 in the back-end API application and 5 in the front-end 
 
 [URL to YouTube](https://youtu.be/Xzu5RK51-Qo)
 
-[URL to Website](votecast.azurewebsites.net/)
+[URL to Website](http://votecast.azurewebsites.net/)
 
 
 ## Evidence of Stakeholder Attendance 
