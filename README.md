@@ -468,3 +468,580 @@ We wrote 9 unit tests (4 in the back-end API application and 5 in the front-end 
 ## Evidence of Stakeholder Attendance 
 
 ![Evidence of Stakeholder Attendance](https://github.com/davidcrowe/pollsters/blob/main/Evidence%20of%20Sprint%20Review.png)
+
+## Sprint 2
+
+**Sprint Planning**
+
+We estimate that our development team has capacity to complete approximately 8 story points during this sprint that directly add value to stakeholders. Additionally, we estimate capacity to complete approximately 10 story points related to technical debt/environment setup tasks. Our rationale is twofold:
+
+
+
+1. During spring 1, we completed 7 story points that directly delivered value to stakeholders. We think this is about right for sustainable development pace given the length of our sprints
+2. During sprint 1, we completed 9 story points related to technical debt/environment setup tasks. We think this is about right for sustainable development pace given the length of our sprints, though we endeavor to reduce time spent on environment setup/technical debt so we can shift more time to user stories that deliver value to stakeholders
+
+Upon determining our story point forecast, the development team met to pull the top user stories and a few high priority environmental setup tasks into our sprint backlog. Only development team members participated in this activity. We generated the following [Sprint Backlog](https://github.com/davidcrowe/pollsters/projects/3) with 19 story points:
+
+
+
+* Build voter landing page view (3 story points)
+* Allow voters to generate privacy code from within the app (5 story points)
+* Implement CI/CD (8 story points)
+* Fix Angular versioning issue (3 story points)
+
+We decomposed the Spring Backlog into the developer tasks below. We came up with test cases specific to each task before beginning development:
+
+
+
+* Create a landing page that is displayed to users upon logging into the app
+* Add two buttons to the landing page: one to "generate privacy code" and the other to "proceed to ballot"
+* When "generate privacy code" is clicked, generate and display a 16-digit alphanumeric code.
+
+The [Sprint #2 burndown chart](https://docs.google.com/document/d/1e0NPRbDEHEs83mi9ooCruVue1PZFC_L9l-14lYdib-Q/edit) shows our team's progress towards completing the sprint backlog. 
+
+**Only development team members pulled stories into the sprint backlog.**
+
+
+## [Sprint Backlog](https://github.com/davidcrowe/pollsters/projects/3)
+
+
+## [Sprint Burndown Chart ](https://docs.google.com/document/d/1e0NPRbDEHEs83mi9ooCruVue1PZFC_L9l-14lYdib-Q/edit?usp=sharing)
+
+
+## [Evidence of July 3rd’s Daily Scrum Event](https://docs.google.com/document/d/1K_bj6OrPHKyxbJ6V_V7uVvCUlPbd2HDU-XOjuzIPCFQ/edit?usp=sharing)
+
+
+## Daily Scrum Logs
+
+
+### July 2
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Build google doc outline for Sprint #2 project submission 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Fix technical issues to upload code to Github and enable all team members to push commits
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Trouble pushing to Github
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Co-created the sprint backlog
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Build sprint plan kanban board in Github
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Trouble pushing to Github
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    0
+   </td>
+  </tr>
+</table>
+
+
+
+### July 3
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Built & began filling in sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Find resources to guide CI/CD implementation during mob programming meeting on 7/4
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Unable to write unit tests
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Fixed technical issues with pushing commits to Github
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Fix technical issues to make it easy to run unit tests on .NET/Angular
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Built kanban board including sprint plan in Github
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Populate sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Unable to write unit tests
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    2
+   </td>
+  </tr>
+</table>
+
+
+
+### July 4
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Identified sources for CI/CD integration, wrote test cases for user stories, added content to sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Finalize sprint #2 project submission 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Resolved technical issues to enable unit testing
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Implement voter landing page 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>N/A (could not make scrum meeting for personal reasons)
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Finalize sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    9
+   </td>
+  </tr>
+</table>
+
+
+
+### July 5
+
+
+<table>
+  <tr>
+   <td>Team Member
+   </td>
+   <td>Last 24 Hours
+   </td>
+   <td>Next 24 Hours
+   </td>
+   <td>Impediments
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>
+<ul>
+
+<li>Finalized sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Sprint #3 planning 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Imrul
+   </td>
+   <td>
+<ul>
+
+<li>Implemented voter landing page & security code functionality
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Sprint #3 planning 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Homoud
+   </td>
+   <td>
+<ul>
+
+<li>Finalized sprint #2 project submission
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Sprint #3 planning 
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>None
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Story Points Completed
+   </td>
+   <td colspan="2" >
+    2
+   </td>
+  </tr>
+</table>
+
+
+
+## Evidence of Pair or Mob Programming
+
+![mob](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20Evidence%20of%20Mob%20Programming.png)
+
+## [Evidence of Unit Testing ](https://github.com/SMImrulKabir/pollsters/blob/main/VoteCastUI/src/app/home/home.component.spec.ts)
+
+We have ran and passed at least 10 unit tests and here is a list of the acceptance criteria based tests:
+
+
+
+1. First button text should be GENERATE PUBLIC CODE
+2. Second button text should be START VOTING
+3. Privacy button should remain enabled before click on it
+4. Privacy button should be disabled after click on it
+5. Voting start button should be disabled at the beginning
+6. Voting start button should be enabled after click on Privacy button
+7. VOTING button will be enabled after Privacy Button clicked
+8. Do not Show privacy code before Privacy Button clicked
+9. Do not Show the note before Privacy Button clicked
+10. Show a text i.e. privacy code after Privacy Button clicked
+
+![tdd1](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20TDD%201.png)
+![tdd2](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20TDD%202.png)
+![tdd3](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20TDD%203.png)
+
+## Evidence of Working Software
+
+[URL to YouTube](https://youtu.be/SH3b_ffls9s)
+
+[URL to Website](https://votecast.azurewebsites.net/)
+
+
+## Evidence of Continuous Integration & Continuous Delivery
+
+We built a CI/CD pipeline using Github and Microsoft Azure. Specifically, we took the following actions: 1/ created an Azure DevOps project; 2/ created a new pipeline; 3/ Selected Github as our source control tool and authorized Azure to access it via OAuth; 4/ Built our pipeline including node.js tool installer & npm installers; 5/ set a trigger and enabled CI. 
+
+Unfortunately we ran into a roadblock as Microsoft requires that we request access for pipelines for public repositories. Specifically, we received an error message: “No hosted parallelism has been purchased or granted. To request a free parallelism grant, please fill out the following form: [https://aka.ms/azpipelines-parallelism-request](https://aka.ms/azpipelines-parallelism-request)”. We expect to receive approval within two to three business days and our CI/CD pipeline will be available then. 
+
+![CICD 1](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20CICD%20error.png)
+![CICD 2](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20CICD%20error%202.png)
+
+## Evidence of Stakeholder Attendance
+
+Our stakeholder Eashrak is a US citizen and voter. She is very active in politics. We asked her to select the best president of the USA ever. She is also a Software Developer and she has given some observations for the app.
+
+![Evidence of Stakeholder 1](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20Stakeholder%20Attendance%201.png)
+![Evidence of Stakeholder 2](https://github.com/davidcrowe/pollsters/blob/main/Sprint%202%20-%20Stakeholder%20Attendance%202.png)
+
+## Sprint Review
+
+Stakeholder comments:
+
+
+
+* “I liked the straightforward UI”
+* “I liked the unique voter ID code”
+* “I wish the product was functional instead of hard-coded”
+* “Excited to see the voting functionality in action”
+* “I want to see confirmation that my vote has been recorded & confirmed”
+
+Product Owner comments:
+
+
+
+* “Great progress from the development team on implementing the landing page, security code functionality, and embracing unit tests and test driven development”
+* “Ran into a roadblock for CI/CD and were unable to complete during the sprint. Therefore, we will add it back to the product backlog and the development team can decide to pull it into the next sprint at their prerogative”
+
+
+## Sprint Retrospective
+
+
+<table>
+  <tr>
+   <td>What went well
+   </td>
+   <td>What didn’t go well
+   </td>
+  </tr>
+  <tr>
+   <td>
+<ul>
+
+<li>Unit testing
+
+<li>Test driven development
+
+<li>Implementing new features
+
+<li>We delivered working software
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Continuous integration
+
+<li>Continuous delivery
+
+<li>Timezone challenge
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>What can we improve
+   </td>
+   <td>Actions
+   </td>
+  </tr>
+  <tr>
+   <td>
+<ul>
+
+<li>Gain further knowledge of DevOps technologies including CI/CD
+
+<li>Change daily scrum meeting time to accommodate time zone challenge 
+
+<li>Ability to communicate instantaneously given the short sprint timeframe
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Create a Whatsapp group to improve team communications
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
